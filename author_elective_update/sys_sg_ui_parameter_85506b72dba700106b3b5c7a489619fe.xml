@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Create New">deaf13b2dba700106b3b5c7a48961970</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>true</mandatory>
+        <multi_select>false</multi_select>
+        <name>Requested for</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder>inserisci nome</placeholder>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 16:02:45</sys_created_on>
+        <sys_id>85506b72dba700106b3b5c7a489619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested for</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_85506b72dba700106b3b5c7a489619fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 16:02:45</sys_updated_on>
+        <table_name/>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=85506b72dba700106b3b5c7a489619fe"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>8a614c14dbd5bf404d2bac44d4961950</instance_id>
+        <instance_name>dev84933</instance_name>
+        <name>sys_sg_ui_parameter_85506b72dba700106b3b5c7a489619fe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Create New">deaf13b2dba700106b3b5c7a48961970</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name/><input_source>user</input_source><input_style>inline</input_style><input_type>text</input_type><mandatory>true</mandatory><multi_select>false</multi_select><name>Requested for</name><order/><parameter_type>button</parameter_type><placeholder>inserisci nome</placeholder><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-18 16:02:45</sys_created_on><sys_id>85506b72dba700106b3b5c7a489619fe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Requested for</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_ui_parameter_85506b72dba700106b3b5c7a489619fe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-18 16:02:45</sys_updated_on><table_name/></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=85506b72dba700106b3b5c7a489619fe"/></record_update>]]></payload>
+        <payload_hash>61046298</payload_hash>
+        <record_name>Requested for</record_name>
+        <reverted_from/>
+        <source>042cfd32db2300106b3b5c7a489619db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 16:02:45</sys_created_on>
+        <sys_id>2590afb2dba700106b3b5c7a48961970</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170ee6201610000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 16:02:45</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>6d90afb2a4a70010ab6aa98aecf74f6f</update_guid>
+        <update_guid_history>6d90afb2a4a70010ab6aa98aecf74f6f:61046298</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 08:17:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>096d1d42e41f447c860f4e0ad0f92164</sys_id>
+        <sys_metadata>85506b72dba700106b3b5c7a489619fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested for</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_85506b72dba700106b3b5c7a489619fe</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_85506b72dba700106b3b5c7a489619fe">2590afb2dba700106b3b5c7a48961970</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 08:17:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

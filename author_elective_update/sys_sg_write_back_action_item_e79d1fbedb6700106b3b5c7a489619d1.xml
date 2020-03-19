@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="DELETE">
+        <description>azione che crea modulo richiesta</description>
+        <execution_script/>
+        <name>Create NeedIt</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 15:50:41</sys_created_on>
+        <sys_id>e79d1fbedb6700106b3b5c7a489619d1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Create NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_e79d1fbedb6700106b3b5c7a489619d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 08:14:22</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <template>u_requested_for={{Requested for}}^u_requested_for_email={{Requested for email}}^u_request_type={{Request type}}^u_what_needed={{What needed}}^u_when_needed={{When needed}}^short_description={{Short description}}^description={{Description}}^EQ</template>
+        <type>new</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="DELETE" query="documentkey=e79d1fbedb6700106b3b5c7a489619d1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>8a614c14dbd5bf404d2bac44d4961950</instance_id>
+        <instance_name>dev84933</instance_name>
+        <name>sys_sg_write_back_action_item_e79d1fbedb6700106b3b5c7a489619d1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item"><sys_sg_write_back_action_item action="INSERT_OR_UPDATE"><description>azione che crea modulo richiesta</description><execution_script/><name>Create NeedIt</name><query_condition/><sys_class_name>sys_sg_write_back_action_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-18 15:50:41</sys_created_on><sys_id>e79d1fbedb6700106b3b5c7a489619d1</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Create NeedIt</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_write_back_action_item_e79d1fbedb6700106b3b5c7a489619d1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-19 08:14:22</sys_updated_on><table>x_58872_needit_needit</table><template>u_requested_for={{Requested for}}^u_requested_for_email={{Requested for email}}^u_request_type={{Request type}}^u_what_needed={{What needed}}^u_when_needed={{When needed}}^short_description={{Short description}}^description={{Description}}^EQ</template><type>new</type><use_current_record_as_condition>false</use_current_record_as_condition></sys_sg_write_back_action_item><sys_translated_text action="delete_multiple" query="documentkey=e79d1fbedb6700106b3b5c7a489619d1"/></record_update>]]></payload>
+        <payload_hash>-151419242</payload_hash>
+        <record_name>Create NeedIt</record_name>
+        <reverted_from/>
+        <source>042cfd32db2300106b3b5c7a489619db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 08:14:22</sys_created_on>
+        <sys_id>2efe7e07dba340106b3b5c7a48961921</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f1db8ecd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 08:14:22</sys_updated_on>
+        <type>Action item</type>
+        <update_guid>66fe7e07c8a340103aaa21b1e63c8c21</update_guid>
+        <update_guid_history>66fe7e07c8a340103aaa21b1e63c8c21:-151419242,659fdf32c2a70010da19c64214e5c49c:-828937153,05dd5732b8a7001025260f9d24d8113d:-1291025051</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 08:17:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_write_back_action_item">sys_sg_write_back_action_item</sys_db_object>
+        <sys_id>8171698684eb48ee86a8d58b86cb44c4</sys_id>
+        <sys_metadata>e79d1fbedb6700106b3b5c7a489619d1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_write_back_action_item_e79d1fbedb6700106b3b5c7a489619d1</sys_update_name>
+        <sys_update_version display_value="sys_sg_write_back_action_item_e79d1fbedb6700106b3b5c7a489619d1">2efe7e07dba340106b3b5c7a48961921</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 08:17:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
